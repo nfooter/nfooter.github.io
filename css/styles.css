@@ -1,0 +1,198 @@
+/*header, nav, footer, div {
+  border: solid 2px red;
+}*/
+
+body {
+  background-color: #f8f9eb;
+  margin-left: 12.44%;
+  margin-right: 12.44%;
+  font-family: avenir;
+  height: 100%;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  padding-bottom: 25px;
+}
+
+#primary_nav {
+  font-family: Prohibition, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 250%;
+  text-align: left;
+  padding-bottom: 5%;
+}
+#primary_nav .nav_links1 {
+  padding-left: 0%;
+}
+#primary_nav .nav_links2 {
+  padding-left: 17.75%;
+}
+#primary_nav .nav_links3 {
+  padding-left: 18.7%;
+}
+#primary_nav .nav_links4 {
+  padding-left: 17.75%;
+}
+#primary_nav a {
+  text-decoration: none;
+  color: #e86a68;
+}
+#primary_nav a:visited {
+  display: none;
+}
+
+#paragraph {
+  font-family: Avenir;
+  font-weight: 500 ;
+  font-size: 120%;
+  color: #787878;
+  width: 35%;
+  height: 15.1%;
+  padding-top: 6.01%;
+}
+
+#weekly_flavors {
+  font-family: Avenir;
+  font-size: 150%;
+  text-align: left;
+}
+#weekly_flavors .flavors {
+  font-size: 100%;
+  color: #e86a68;
+  display: inline;
+  border: 2px solid #e86a68;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  padding-top: .75%;
+  padding-bottom: .75%;
+}
+#weekly_flavors h3 {
+  display: inline;
+  color: #6589d9;
+  padding-right: 3%;
+}
+
+.yogurt {
+  width: 55%;
+  margin-top: -145px;
+  margin-left: 45%;
+  padding-bottom: 10px;
+}
+
+#notfooter {
+  padding-bottom: 100px;
+}
+
+#currentpage #current {
+  font-size: 120%;
+  color: #787878;
+  margin: -44 0 0 0;
+  font-family: Prohibition;
+  font-size: 35px;
+}
+
+h3 {
+  color: #6589d9;
+  margin-top: 4%;
+  }
+
+#icecream #ic {
+  margin-left: 22.5%;
+  margin-top: -40px;
+  margin-right: 0px;
+  line-height: 30px;
+  color: #787878;
+  margin-bottom: 0px;
+  width: 200px;
+}
+#smoothies {
+  margin-top: -415px;
+  margin-left: 50%;
+}
+#smoothies #sm {
+  margin-left: 22.5%;
+  margin-top: -45px;
+  margin-right: 0px;
+  line-height: 30px;
+  color: #787878;
+  margin-bottom: 0px;
+  width: 200px;
+}
+#toppings {
+  margin-top: 0px;
+  margin-left: 50%;
+}
+#toppings #tp {
+  margin-left: 22.5%;
+  margin-top: -70px;
+  margin-right: 0px;
+  line-height: 30px;
+  color: #787878;
+  width: 200px;
+}
+
+#location p {
+  width: 300px;
+  margin-right: none;
+  clear: none;
+}
+#location .map1 {
+  margin-left: 50%;
+  margin-top: -200px;
+}
+
+#location .map2 {
+  margin-left: 50%;
+  margin-top: -200px;
+}
+
+#location {
+  padding-bottom: 100px;
+}
+.insta {
+  height: 764px;
+  width: 501px;
+  /*margin-top: -690px;*/
+  margin-left: 55%;
+}
+#social #instagram h3 {
+  margin-left: 55%;
+  margin-top: -640px;
+}
+
+.harvard {
+  /*width: 55%;*/
+  margin-top: -700px;
+  margin-left: 45%;
+  padding-bottom: 10px;
+}
+
+#footer {
+  font-family: Avenir;
+  font-size: 19px;
+  color: white;
+  background-color: #e86a68;
+  height: 78px;
+  width: 100%;
+/* Footer at the bottom */
+  /*right: 0;*/
+  /*bottom: 0;*/
+  position: absolute;
+  margin-top: -78px;
+  clear: both;
+  margin-left: -12.44%;
+}
+#footer #Porter {
+  float: left;
+  margin-left: 12.44%;
+  margin-top: 27px;
+}
+
+#footer #Harvard {
+  float: right;
+  margin-right: 12.44%;
+  margin-top: 27px;
+}
